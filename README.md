@@ -28,7 +28,7 @@ O script inicial continha alguns erros que impediam a renderização completa da
 - Correção do script de inserção para incluir as chaves estrangeiras `autor_id` e `editora_id`.
 
 ## Script Final
-O script finalizado pode ser encontrado [aqui](link_para_o_script).
+O script finalizado pode ser encontrado na pasta
 
 ## Como executar
 
